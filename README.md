@@ -1,2 +1,2 @@
-# NETCore
- Estudo de Net core
+# REVISÃO C#
+ Um revisão rapida de C#
